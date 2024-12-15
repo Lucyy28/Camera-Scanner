@@ -2,7 +2,7 @@
 
 Scanner Kamera Python adalah aplikasi yang dibuat untuk memanfaatkan kamera perangkat untuk memindai dokumen atau gambar. Proyek ini menggunakan Python dan beberapa pustaka seperti `OpenCV` dan `pyzbar` untuk mendeteksi dan memindai kode QR, serta fitur pengolahan gambar lainnya.
 
-![Scanner Kamera Python](screenshot/scanner_example.png)
+![Scanner Kamera Python](face1_scanner.png)
 
 ## Fitur Utama
 
