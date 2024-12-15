@@ -2,7 +2,7 @@
 
 Scanner Kamera Python adalah aplikasi yang dibuat untuk memanfaatkan kamera perangkat untuk memindai dokumen atau gambar. Proyek ini menggunakan Python dan beberapa pustaka seperti `OpenCV` dan `pyzbar` untuk mendeteksi dan memindai kode QR, serta fitur pengolahan gambar lainnya.
 
-![Scanner Kamera Python](face1_scanner.png)
+![Scanner Kamera Python](Screenshot/face1_scanner.png)
 
 ## Fitur Utama
 
@@ -12,7 +12,7 @@ Scanner Kamera Python adalah aplikasi yang dibuat untuk memanfaatkan kamera pera
 
 Scanner Tangan dan Penggerak Kursor Python adalah aplikasi berbasis Python yang memungkinkan pengguna untuk menggerakkan kursor komputer menggunakan gerakan tangan. Proyek ini menggunakan teknologi pengenalan gerakan tangan untuk mendeteksi gerakan tangan dan mengontrol posisi kursor.
 
-![Hand Gesture Control](hand_scanner.png)
+![Hand Gesture Control](Screenshot/hand_scanner.png)
 
 ## Fitur Utama
 
