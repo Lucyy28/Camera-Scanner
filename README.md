@@ -34,5 +34,5 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan aplikasi ini
 
 1. **Clone repositori**:
    ```bash
-   git clone https://github.com/username/scanner-camera-python.git
+   git clone 
    cd scanner-camera-python
